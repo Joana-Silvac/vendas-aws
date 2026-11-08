@@ -1,6 +1,7 @@
 # Análise de vendas na nuvem (AWS)
 
 Site publicado em: https://joana-silvac.github.io/vendas-aws/
+
 Projeto Final de Cloud Computing (UNIMA). O usuário envia um CSV de vendas, o S3 guarda o arquivo e a Lambda calcula o total e os produtos mais vendidos.
 
 ## Arquitetura
