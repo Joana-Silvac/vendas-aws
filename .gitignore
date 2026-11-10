@@ -1,7 +1,0 @@
-.env
-*.pem
-*.key
-.aws/
-credentials
-__pycache__/
-*.zip
